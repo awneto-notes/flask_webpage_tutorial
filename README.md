@@ -1,5 +1,5 @@
 # flask_webpage_tutorial
-A website build using Flask.
+A website built using Flask.
 
 Based on Tim Ruscica's tutorial.
 
